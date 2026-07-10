@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Neetesh%20Yadav&fontSize=42&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20SRE&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Neetesh%20Yadav&fontSize=44&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20SRE&descAlignY=58&fontColor=ffffff&color=0:0ea5e9,100:6366f1&animation=fadeIn" />
 </p>
 
 <div align="center">
-
-# Hi, I'm Neetesh Yadav
 
 ### Senior DevOps Engineer | AWS • Kubernetes • SRE • Platform Engineering
 
@@ -14,7 +12,7 @@ I build tools and automation that help engineering teams run production systems 
 
 [![Website](https://img.shields.io/badge/Blog-DevOps%27%20World-blue?style=for-the-badge)](https://devopsofworld.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-imneeteeshyadav98-black?style=for-the-badge&logo=github)](https://github.com/imneeteeshyadav98)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neetesh%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neetesh%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neeteshyadav/)
 
 </div>
 
