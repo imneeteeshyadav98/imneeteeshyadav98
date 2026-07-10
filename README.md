@@ -34,7 +34,7 @@ I enjoy solving real infrastructure problems and turning repeated operational wo
 
 ---
 
-## 🧩 Featured Project: KubePreflight
+## 🧩 Featured Project: [KubePreflight](https://github.com/imneeteeshyadav98/kubepreflight)
 
 ### Kubernetes Upgrade Readiness CLI and Console
 
@@ -123,12 +123,11 @@ Recent topics include:
 
 ## 📌 What I Work On
 
-```text
-Kubernetes Upgrade Readiness
-AWS Infrastructure Automation
-CI/CD Pipeline Optimization
-Monitoring and Observability
-Cloud Security and Reliability
-SRE and Incident Prevention
-Platform Engineering Tools
-Production Support and Troubleshooting
+- Kubernetes upgrade readiness
+- AWS infrastructure automation
+- CI/CD pipeline optimization
+- Monitoring and observability
+- Cloud security and reliability
+- SRE and incident prevention
+- Platform engineering tools
+- Production support and troubleshooting
