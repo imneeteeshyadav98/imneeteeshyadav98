@@ -71,6 +71,25 @@ I enjoy solving real infrastructure problems and turning repeated operational wo
 
 > Goal: Help teams upgrade Kubernetes clusters with confidence by identifying blockers before production upgrades.
 
+## Infrastructure Project: [my-app-platform](https://github.com/imneeteeshyadav98/my-app-platform)
+
+> Config-driven Terraform platform for provisioning AWS infrastructure.
+
+**my-app-platform** is a modular Terraform-based AWS infrastructure engine where infrastructure behavior is controlled through a single JSON configuration file instead of hardcoded Terraform values.
+
+| Capability | Description |
+|---|---|
+| Config-driven IaC | Uses `config/config.json` as the source of truth |
+| Multi-environment Support | Supports dev, staging, and prod style workflows |
+| VPC Modes | Can create a new VPC or reuse an existing VPC |
+| AWS Discovery | Discovers existing VPCs by ID, CIDR, or Name tag |
+| Modular Design | Includes reusable modules for VPC, EKS, RDS, ALB, WAF, S3, ECR, ACM, Route53, Secrets, and IRSA |
+| Pre-flight Validation | Runs Terraform format and validation checks before execution |
+| Automation | Provides Makefile and deploy script based workflow |
+| Production Practices | Includes tagging strategy, backend guidance, naming convention, and module rules |
+
+**Tech Stack:** Terraform, AWS, Shell, Makefile, Kubernetes, EKS, RDS, ALB, WAF, S3
+
 ---
 
 ## Tech Stack
