@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Neetesh Yadav 👋
+# Hi, I'm Neetesh Yadav
 
 ### Senior DevOps Engineer | AWS • Kubernetes • SRE • Platform Engineering
 
@@ -20,7 +20,7 @@ I build tools and automation that help engineering teams run production systems 
 
 ---
 
-## ⚡ Quick Snapshot
+## Quick Snapshot
 
 | Area | Details |
 |---|---|
@@ -33,7 +33,7 @@ I build tools and automation that help engineering teams run production systems 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **Senior DevOps Engineer** focused on building reliable, scalable, and production-ready infrastructure.
 
@@ -51,7 +51,7 @@ I enjoy solving real infrastructure problems and turning repeated operational wo
 
 ---
 
-## 🧩 Featured Project: [KubePreflight](https://github.com/imneeteeshyadav98/kubepreflight)
+## Featured Project: [KubePreflight](https://github.com/imneeteeshyadav98/kubepreflight)
 
 > Kubernetes upgrade-readiness CLI and Console for platform and SRE teams.
 
@@ -75,7 +75,7 @@ I enjoy solving real infrastructure problems and turning repeated operational wo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,go,python,bash,react,typescript,linux" />
@@ -96,11 +96,11 @@ I enjoy solving real infrastructure problems and turning repeated operational wo
 
 ---
 
-## ✍️ Technical Writing
+## Technical Writing
 
 I write practical DevOps, cloud, Kubernetes, AWS, migration, and production engineering articles at **DevOps' World**.
 
-🔗 **Blog:** [devopsofworld.com](https://devopsofworld.com/)
+**Blog:** [devopsofworld.com](https://devopsofworld.com/)
 
 Recent topics include:
 
@@ -114,7 +114,7 @@ Recent topics include:
 
 ---
 
-## 📌 What I Work On
+## What I Work On
 
 - Kubernetes upgrade readiness
 - AWS infrastructure automation
@@ -128,7 +128,7 @@ Recent topics include:
 
 ---
 
-## 🎯 Career Direction
+## Career Direction
 
 I am focused on becoming a high-impact **DevOps / SRE / Platform Engineer** who combines:
 
@@ -142,7 +142,7 @@ I am focused on becoming a high-impact **DevOps / SRE / Platform Engineer** who 
 ---
 
 <details>
-  <summary>📊 GitHub Activity</summary>
+  <summary>GitHub Activity</summary>
 
 <br />
 
