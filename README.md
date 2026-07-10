@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Neetesh%20Yadav&fontSize=42&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20SRE&descAlignY=58&animation=fadeIn" />
+</p>
+
 <div align="center">
 
 # Hi, I'm Neetesh Yadav 👋
@@ -13,6 +17,19 @@ I build tools and automation that help engineering teams run production systems 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neetesh%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
+
+---
+
+## ⚡ Quick Snapshot
+
+| Area | Details |
+|---|---|
+| Experience | 5.5+ years in DevOps, Cloud, Kubernetes, CI/CD, Automation, and SRE |
+| Current Role | Senior DevOps Engineer |
+| Core Strength | AWS, Kubernetes, EKS, CI/CD, Observability, Automation |
+| Featured Project | KubePreflight — Kubernetes upgrade-readiness CLI and Console |
+| Technical Writing | DevOps' World |
+| Career Focus | SRE, Platform Engineering, Kubernetes, Cloud Automation, AI-powered Infrastructure Tooling |
 
 ---
 
@@ -36,21 +53,21 @@ I enjoy solving real infrastructure problems and turning repeated operational wo
 
 ## 🧩 Featured Project: [KubePreflight](https://github.com/imneeteeshyadav98/kubepreflight)
 
-### Kubernetes Upgrade Readiness CLI and Console
+> Kubernetes upgrade-readiness CLI and Console for platform and SRE teams.
 
 **KubePreflight** helps platform and SRE teams detect Kubernetes upgrade risks before they impact production.
 
-It checks for:
-
-- Deprecated Kubernetes APIs
-- Broken admission webhooks
-- PodDisruptionBudget risks
-- Unhealthy workloads
-- Node and kubelet version skew
-- Add-on compatibility risks
-- Priority-based upgrade findings
-- HTML, Markdown, and JSON reports
-- Upgrade action plan generation
+| Capability | Description |
+|---|---|
+| Deprecated API Detection | Finds Kubernetes APIs that may break during upgrades |
+| Webhook Risk Detection | Detects broken or fail-closed admission webhooks |
+| PDB Risk Analysis | Identifies disruption blockers before upgrade |
+| Workload Health Checks | Flags unhealthy workloads before rollout |
+| Node Skew Checks | Highlights node and kubelet version skew risks |
+| Add-on Compatibility | Surfaces upgrade risks from Kubernetes add-ons |
+| Priority Findings | Adds priority, affected scope, and upgrade continuation signals |
+| Upgrade Action Plan | Generates phased remediation and validation steps |
+| Reports | Supports HTML, Markdown, and JSON output |
 
 **Tech Stack:** Go, Kubernetes API, React, TypeScript, Vite, Docker, GitHub Actions
 
@@ -60,46 +77,22 @@ It checks for:
 
 ## 🛠️ Tech Stack
 
-### Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,go,python,bash,react,typescript,linux" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=flat-square&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-Cloud-red?style=flat-square&logo=googlecloud)
+### Core Skills
 
-### Containers and Kubernetes
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker)
-![Helm](https://img.shields.io/badge/Helm-Kubernetes-blue?style=flat-square&logo=helm)
-![EKS](https://img.shields.io/badge/Amazon%20EKS-Kubernetes-orange?style=flat-square&logo=amazonaws)
-
-### Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat-square&logo=ansible)
-![Crossplane](https://img.shields.io/badge/Crossplane-Cloud%20Control%20Plane-blue?style=flat-square)
-
-### CI/CD and Automation
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?style=flat-square&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=flat-square&logo=jenkins)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-CI%2FCD-orange?style=flat-square&logo=gitlab)
-![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-CI%2FCD-orange?style=flat-square&logo=amazonaws)
-
-### Observability
-
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange?style=flat-square&logo=grafana)
-![Loki](https://img.shields.io/badge/Loki-Logs-blue?style=flat-square&logo=grafana)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-orange?style=flat-square&logo=amazonaws)
-
-### Languages and Tools
-
-![Go](https://img.shields.io/badge/Go-Backend-blue?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/Python-Automation-yellow?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=flat-square&logo=gnubash)
-![React](https://img.shields.io/badge/React-UI-blue?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue?style=flat-square&logo=typescript)
+| Category | Tools and Platforms |
+|---|---|
+| Cloud | AWS, Azure, GCP |
+| Containers | Kubernetes, EKS, Docker, Helm |
+| Infrastructure as Code | Terraform, Ansible, Crossplane |
+| CI/CD | GitHub Actions, Jenkins, GitLab CI, AWS CodePipeline |
+| Observability | Prometheus, Grafana, Loki, CloudWatch |
+| Languages | Go, Python, Bash |
+| Frontend / UI | React, TypeScript, Vite |
+| SRE | Incident analysis, production readiness, upgrade planning, automation |
 
 ---
 
@@ -131,3 +124,48 @@ Recent topics include:
 - SRE and incident prevention
 - Platform engineering tools
 - Production support and troubleshooting
+- Technical writing and knowledge sharing
+
+---
+
+## 🎯 Career Direction
+
+I am focused on becoming a high-impact **DevOps / SRE / Platform Engineer** who combines:
+
+- Production engineering
+- Automation
+- Kubernetes and cloud expertise
+- Customer problem-solving
+- AI-powered infrastructure tooling
+- Strong technical communication
+
+---
+
+<details>
+  <summary>📊 GitHub Activity</summary>
+
+<br />
+
+<div align="center">
+
+![Neetesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imneeteeshyadav98&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imneeteeshyadav98&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imneeteeshyadav98&theme=default)
+
+</div>
+
+</details>
+
+---
+
+<p align="center">
+  <b>Building reliable infrastructure, one automation at a time.</b>
+</p>
+
+<p align="center">
+  <a href="https://devopsofworld.com/">Blog</a> •
+  <a href="https://github.com/imneeteeshyadav98/kubepreflight">KubePreflight</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
