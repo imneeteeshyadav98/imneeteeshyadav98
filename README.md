@@ -167,5 +167,5 @@ I am focused on becoming a high-impact **DevOps / SRE / Platform Engineer** who 
 <p align="center">
   <a href="https://devopsofworld.com/">Blog</a> •
   <a href="https://github.com/imneeteeshyadav98/kubepreflight">KubePreflight</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/neeteshyadav/">LinkedIn</a>
 </p>
